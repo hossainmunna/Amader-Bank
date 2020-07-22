@@ -1,11 +1,15 @@
 body{
     padding: 100px;
+    
 }
+
 .submit-area{
   margin-top: 50px;
   padding: 40px;
   border-radius: 10px;
-  box-shadow:5px 5px 10px rgb(164, 231, 56);
+  color: aliceblue;
+  background-color:rgba(15, 15, 15, 0.993);
+  box-shadow:5px 5px 10px rgb(238, 224, 25);
 }
 #pic{
     width: 10%;
@@ -31,4 +35,10 @@ body{
 }
 .status :hover{
     color: black;
+}
+.money-transactions{
+    margin-top: 50px;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow:5px 5px 10px rgb(164, 231, 56);
 }
